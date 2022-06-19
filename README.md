@@ -1,3 +1,5 @@
-# jelou-guorl
-firts repository on github
-- firts branch on Github
+# Hello Wolrd with MVC Net Core
+
+- Rename Repository
+- Create Project
+
